@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e44a73252b1c34048bbe59be176c0977
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - winText: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  - MusicClip: {fileID: 8300000, guid: dd5962bdd0f8848e6be305afdbf01b6e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
